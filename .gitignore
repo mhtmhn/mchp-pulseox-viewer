@@ -1,0 +1,14 @@
+# General
+/node_modules/
+/public/build/
+.DS_Store
+dist
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.yarn/install-state.gz
