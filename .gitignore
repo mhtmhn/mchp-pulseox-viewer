@@ -12,3 +12,5 @@ dist
 !.yarn/sdks
 !.yarn/versions
 .yarn/install-state.gz
+# Temporary files
+vite.config.js.timestamp*.*
