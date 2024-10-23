@@ -1,5 +1,5 @@
 const tailwindcss = require('tailwindcss');
 
 module.exports = {
-  plugins: [tailwindcss('./tailwind.config.cjs')],
+  plugins: [tailwindcss('./tailwind.config.js')],
 };

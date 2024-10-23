@@ -1998,6 +1998,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"smoothie@npm:^1.36.1":
+  version: 1.36.1
+  resolution: "smoothie@npm:1.36.1"
+  checksum: 10c0/d09df51e1e727cd53214ac1e24551a4fb1b390245eb200c95a0d1017a74a055fdfbe99b8507ae388fffee271903339a6adcf6c0f0af9f20384fbce3f7739ae29
+  languageName: node
+  linkType: hard
+
 "socks-proxy-agent@npm:^8.0.3":
   version: 8.0.4
   resolution: "socks-proxy-agent@npm:8.0.4"
@@ -2118,6 +2125,7 @@ __metadata:
     prettier: "npm:3.3.3"
     prettier-plugin-svelte: "npm:^3.2.7"
     prettier-plugin-tailwindcss: "npm:^0.6.8"
+    smoothie: "npm:^1.36.1"
     svelte: "npm:^4.2.19"
     svelte-preprocess: "npm:^6.0.3"
     tailwindcss: "npm:^3.4.14"

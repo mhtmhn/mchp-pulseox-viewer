@@ -28,6 +28,8 @@ yarn dev
 yarn build
 ```
 
+> Note: Build output will be written to the directory ./dist/ <br>
+
 Test built project:
 
 ```bash
